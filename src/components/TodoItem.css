@@ -23,3 +23,7 @@
     border: none;
     padding:5px
 }
+.TodoItem.done{
+    text-decoration: line-through;
+    color:gray
+}
